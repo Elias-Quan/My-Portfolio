@@ -28,20 +28,20 @@
  
  Since this was the first ever website I built, it was very challenging.
  Especially ensuring that my site was mobile friendly did not come easy. I read a number of blogs, watched many 
- youtube videos and most improtantly googled stuffs until i found solutions. In general, the entire experience was a learning journery for me and I look forward to  improving the site as I gain more experience. 
+ youtube videos and most improtantly googled stuffs until i found solutions. In general, the entire experience was a learning journery for me and I look forward to  improving the site as I gain more experience.   
 
 Building this site improved my skills on how to better layout websites with HTML 5 tags.
-In addition, I learnt so much about CSS Grid and FlexBox.
+In addition, I learnt so much about CSS Grid and FlexBox.  
 
 I suggest that anyone trying to also build a portfolio site should try and keep it simple as possible. This implies making sure that your page visitors do not find it difficult to navigate through your page.
-Your portfolio should only include the most relevant information.
+Your portfolio should only include the most relevant information.  
 
-Moreover, make sure to choose the right colors and font-sizes for your site, this is very important.
+Moreover, make sure to choose the right colors and font-sizes for your site, this is very important.  
 
 
 ### Built With
 
-Because this was a fairly straight forward site, i did not use any library, I used, 
+Because this was a fairly straight forward site, i did not use any library, I used,  
 HTML  
 CSS  
 Javascript  
@@ -50,6 +50,7 @@ Javascript
 ## Features
 
 <!-- TODO: List what specific 'user problems' that this application solves. -->
+The site is mobile responsive
 I made sure that the site was so simple to let for easy navigation.  
 I choose the right font-sizes and colors to ensure a good experience on the site.  
 
