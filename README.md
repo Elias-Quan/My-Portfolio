@@ -19,10 +19,12 @@
     3. List a few specific technical things that you learned or improved on.
     4. Share any other tips or guidance for others attempting this or something similar.
  -->
- Find below an a screenshot of My Portfolio site
+ Find below an a screenshot of My Portfolio site   
+ 
  https://user-images.githubusercontent.com/102751060/210056689-72aa7867-37d2-47a3-8417-0f33d53c01e3.png
  
- Also find below a link to the live site
+ Also find below a link to the live site  
+ 
  https://eliasport.netlify.app
  
  Since this was the first ever website I built, it was very challenging.
@@ -41,8 +43,10 @@ Moreover, make sure to choose the right colors and font-sizes for your site, thi
 ### Built With
 
 Because this was a fairly straight forward site, i did not use any library, I used, 
-HTML
-CSS
+HTML  
+
+CSS  
+
 Javascript
 
 
