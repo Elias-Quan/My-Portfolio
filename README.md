@@ -30,7 +30,7 @@
  Especially ensuring that my site was mobile friendly did not come easy. I read a number of blogs, watched many 
  youtube videos and most improtantly googled stuffs until i found solutions. In general, the entire experience was a learning journery for me and I look forward to  improving the site as I gain more experience.   
 
-Building this site improved my skills on how to better layout websites with HTML 5 tags.
+Building this site improved my skills on how to better layout websites with HTML 5 tags.  
 In addition, I learnt so much about CSS Grid and FlexBox.  
 
 I suggest that anyone trying to also build a portfolio site should try and keep it simple as possible. This implies making sure that your page visitors do not find it difficult to navigate through your page.
