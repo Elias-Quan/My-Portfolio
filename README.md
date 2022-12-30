@@ -6,7 +6,6 @@
 - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
@@ -44,21 +43,19 @@ Moreover, make sure to choose the right colors and font-sizes for your site, thi
 
 Because this was a fairly straight forward site, i did not use any library, I used, 
 HTML  
-
 CSS  
-
-Javascript
+Javascript  
 
 
 ## Features
 
 <!-- TODO: List what specific 'user problems' that this application solves. -->
-I made sure that the site was so simple to let for easy navigation.
-I choose the right font-sizes and colors to ensure a good experience on the site.
+I made sure that the site was so simple to let for easy navigation.  
+I choose the right font-sizes and colors to ensure a good experience on the site.  
 
 ## Contact
 
-email: eliasbaaki@gmail.com
-portfolio: https://eliasport.netlify.app
+email: eliasbaaki@gmail.com  
+portfolio: https://eliasport.netlify.app  
 
-## Acknowledgements
+
